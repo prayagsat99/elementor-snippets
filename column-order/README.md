@@ -58,16 +58,15 @@ Imagine a three-column layout where you want the second column to appear first o
         order: 1;
     }
 }
+```
 
-Benefits
-
-1. Responsiveness:
+## Benefits:
+1. **Responsiveness**:
    - Easily adjust the visual order of columns for different devices without modifying the HTML structure.
-
-2. User-Friendly:
+2. **User-Friendly**:
    - The control integrates directly into Elementor’s UI, enabling users to manage column order visually without requiring CSS knowledge.
-
-3. Cross-Browser Compatibility:
+3. **Cross-Browser Compatibility**:
    - Ensures consistent functionality across all browsers by utilizing vendor prefixes for the order property (-webkit-order, -ms-flex-order).
 
 This feature empowers Elementor users to create fully responsive designs by dynamically reordering columns based on device-specific requirements. Integrate this function to enhance your WordPress site-building capabilities!
+
